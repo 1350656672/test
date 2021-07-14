@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 dasdsad45dasaa1111111111111
 sdada
+=======
+dasdsad45dasaa
+sdada2222222222222222
+>>>>>>> master
 asda
 222222
 111111
